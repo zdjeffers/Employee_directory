@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import SearchBar from "./SearchBar";
+import SearchBar from "./searchBar";
 import EmployeeDatabase from "./employeeDatabase";
-import API from "../utils/API";
+import API from "../utils/api";
 import "../style/style.css";
 
 class MainContainer extends Component {
