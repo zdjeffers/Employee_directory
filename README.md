@@ -5,7 +5,7 @@ Employee Directory uitilizing a random person generator API and, for the first t
 This application is my first attempt at creating a react app! This utilizes a random person generating API. There is also sorting functionality by name in either ascending or decending order. On top of that, it dynamically uses a search bar if there is a specific piece of information you would like to search with.
 
 ### Here is the final product:
-![Employee Directory](https://github.com/zdjeffers/Budget_Tracker/blob/main/public/assets/Screenshot%202021-04-14%20224336.png)
+![Employee Directory](https://github.com/zdjeffers/Employee_directory/blob/main/employee_directory/public/assets/images/React%20App.gif)
 
 ### Deployed Site:
 [Employee Directory (Github)](https://zdjeffers.github.io/Employee_directory/)
